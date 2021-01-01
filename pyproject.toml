@@ -6,6 +6,7 @@ authors = ["sondos-braim <sondos9811@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+spacy = "^2.3.5"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
